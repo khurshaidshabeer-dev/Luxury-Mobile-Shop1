@@ -1,4 +1,4 @@
-# Luxury-Mobile-<!doctype html>
+# Luxury-Mobile-
 <html lang="en">
 <head>
 <meta charset="utf-8">
